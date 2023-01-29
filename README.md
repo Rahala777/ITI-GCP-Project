@@ -45,10 +45,10 @@
 
 
 ## Load Balancer
-![Alt text](Screenshots/LB.png)
+![LB](https://user-images.githubusercontent.com/50025855/215360028-98dbbfab-7610-4dbf-90ac-e70e6cc80f91.png)
 
 ## Bucket
-![Alt text](Screenshots/Bucket.png)
+![Bucket](https://user-images.githubusercontent.com/50025855/215360015-be623fb7-a72b-49b7-8718-a5d99cfefa38.png)
 
 ## Web app while up and run on the browser 
-![Alt text](Screenshots/Webapp_up_and_run.png)
+![Webapp_up_and_run](https://user-images.githubusercontent.com/50025855/215360020-de7bf7a2-fe14-4e55-ab64-a9d22a090230.png)
